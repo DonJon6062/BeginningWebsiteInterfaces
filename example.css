@@ -1,0 +1,36 @@
+/* external css file */
+body
+{
+    background-color: dimgrey;
+}
+
+h1
+{
+    color: gold;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2
+{
+    color: gold;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+article
+{
+    color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+p
+{
+    color: yellow;
+    text-align: center;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+}
