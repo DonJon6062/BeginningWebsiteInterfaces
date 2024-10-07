@@ -1,1 +1,1 @@
-This is the readMe file. Attatched is the verification of CSS upholding to modern standards, the css file and HTML page.
+This is the readMe file. Attatched is the verification of CSS upholding to modern standards, the HTML verification of upholding modern standards, the css file and HTML page. The output is the lyrics to 'The Riddle' on a grey background with yellow/gold text, centered.
